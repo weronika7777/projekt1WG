@@ -11,7 +11,7 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
 body{
     font-family: 'Grandstander', cursive;
     font-size: 62.5%;
-    background-image: url("../stronka/img/cytrus2.jpg");
+    background-image: url("img/cytrus2.jpg");
 }
 #strona {
     width: 80%;
@@ -19,7 +19,7 @@ body{
     border: solid 1px slategray;
 }
 header{text-align: center; height: 150px;
-    background: palevioletred url("../stronka/img/free-image-39-small.jpg");}
+    background: palevioletred url("img/free-image-39-small.jpg");}
 article {height:400px;width:99%;float: left;padding:0.2% 0.5% 0.2% 0.5%; background:#ff831f;}
 p {text-align: center;margin-top: 5pt;margin-bottom: 5pt;}
 div {height:200px;width:99%;float: left;padding:0.2% 0.5% 0.2% 0.5%; background:#ff356f;}
@@ -53,7 +53,7 @@ nav ul a, article ul li a:visited {
     margin-left:300px;
 }
 nav ul a, #nav ul li a:visited {
-    background: #803514 url("../stronka/img/cytrus2.jpg") no-repeat 0 2px;
+    background: #803514 url("img/cytrus2.jpg") no-repeat 0 2px;
 }
 nav ul a:hover {
     font-weight: bold;
